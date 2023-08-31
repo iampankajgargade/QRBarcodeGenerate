@@ -1,0 +1,15 @@
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\bin\Debug\QRandBarcode.exe.config
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\bin\Debug\QRandBarcode.exe
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\bin\Debug\QRandBarcode.pdb
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\bin\Debug\zxing.dll
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\bin\Debug\zxing.presentation.dll
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\bin\Debug\zxing.xml
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\bin\Debug\zxing.presentation.xml
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\obj\Debug\QRandBarcode.csprojAssemblyReference.cache
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\obj\Debug\QRandBarcode.Form1.resources
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\obj\Debug\QRandBarcode.Properties.Resources.resources
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\obj\Debug\QRandBarcode.csproj.GenerateResource.cache
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\obj\Debug\QRandBarcode.csproj.CoreCompileInputs.cache
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\obj\Debug\QRandBarcode.csproj.CopyComplete
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\obj\Debug\QRandBarcode.exe
+C:\Users\MintFDI\Desktop\qrandbarcode\QRandBarcode\obj\Debug\QRandBarcode.pdb
